@@ -28,7 +28,7 @@ sections:
           url: "/#contact"
     design:
       background:
-        filename: "lab-group.jpg"
+        filename: "AA3A0511.JPG"
         filters:
           brightness: 0.7
       spacing:

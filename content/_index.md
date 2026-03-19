@@ -14,9 +14,9 @@ sections:
       subtitle: ""
       text: |
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px 0;">
-          <img src="./media/chimie.png" style="height: 60px;">
-          <img src="./media/iclehs.png" style="height: 80px;">
-          <img src="./media/cnrs.png" style="height: 60px;">
+          <img src="/crafty-fox-web/media/chimie.png" style="height: 60px;">
+          <img src="/crafty-fox-web/media/iclehs.png" style="height: 80px;">
+          <img src="/crafty-fox-web/media/cnrs.png" style="height: 60px;">
         </div>
         <div style="text-align: center; font-style: italic; border-top: 1px solid #eee; padding-top: 10px;">
           — Institute of Chemistry for Life & Health Sciences —
@@ -32,7 +32,7 @@ sections:
       text: ""
     design:
       background:
-        filename: "./media/AA3A0511.JPG"
+        filename: "/crafty-fox-web/media/AA3A0511.JPG"
       spacing:
         padding: ["15rem", 0, "15rem", 0]
 

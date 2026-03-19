@@ -32,7 +32,7 @@ sections:
       text: ""
     design:
       background:
-        filename: "media/AA3A0511.JPG"
+        filename: "static/media/AA3A0511.JPG"
       spacing:
         padding: ["15rem", 0, "15rem", 0]
 

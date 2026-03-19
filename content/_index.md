@@ -36,7 +36,7 @@ sections:
       spacing:
         padding: ["15rem", 0, "15rem", 0]
 
-  # 2. Stats
+ # 2. Stats
 - block: stats
     content:
       title: Lab at a Glance
@@ -62,7 +62,7 @@ sections:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
   
-  # 4. Research Themes
+# 4. Research Themes
 - block: features
     content:
       title: "Research Themes"

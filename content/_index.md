@@ -1,5 +1,5 @@
 ---
-title: 'SEISAD Team'
+title: 'SEISAD'
 date: 2024-01-01
 type: landing
 
@@ -7,32 +7,34 @@ design:
   spacing: "6rem"
 
 sections:
-  # 1. Hero
+# logo
+- block: markdown
+    content:
+      title: ""
+      subtitle: ""
+      text: |
+        <div style="display: flex; justify-content: space-between; align-items: center; padding: 20px 0;">
+          <img src="chimie.png" style="height: 60px;">
+          <img src="iclehs.png" style="height: 80px;">
+          <img src="cnrs.png" style="height: 60px;">
+        </div>
+        <div style="text-align: center; font-style: italic; border-top: 1px solid #eee; padding-top: 10px;">
+          — Institute of Chemistry for Life & Health Sciences —
+        </div>
+    design:
+      spacing:
+        padding: ["1rem", 0, "1rem", 0]
+  
+  # 1. photo
   - block: hero
     content:
-      title: SEISAD Team
-      text: |
-        **Surface, Electrochemistry, Imaging and Surface Analytical Design**  
-        Part of Chimie ParisTech - PSL University. We focus on advancing the understanding of electrochemical interfaces and material science.
-      primary_action:
-        text: Our Publications
-        url: /publication/
-        icon: book-open
-      secondary_action:
-        text: Join Us
-        url: "/#contact"
-      announcement:
-        text: "📢 We are looking for new PhD students and Postdocs! Click here to learn more."
-        link:
-          text: "Open Positions"
-          url: "/#contact"
+      title: ""
+      text: ""
     design:
       background:
         filename: "AA3A0511.JPG"
-        filters:
-          brightness: 0.7
       spacing:
-        padding: ["4rem", 0, "4rem", 0]
+        padding: ["15rem", 0, "15rem", 0]
 
   # 2. Stats
   - block: stats
@@ -50,36 +52,38 @@ sections:
       spacing:
         padding: ["2rem", 0, "2rem", 0]
 
-  # 3. Research Axes
-  - block: features
-    id: research
+# 3. dscription
+- block: markdown
     content:
-      title: Research Axes
-      text: Our team investigates the complexity of chemical systems through multiple scales.
-      items:
-        - name: Surface Analysis
-          icon: microscope
-          description: Using advanced imaging techniques to characterize interfaces at the nanoscale.
-        - name: Electrochemistry
-          icon: bolt
-          description: Studying charge transfer and fundamental electrochemical reactions.
-        - name: Material Design
-          icon: flask
-          description: Developing new materials for sustainable energy and industrial applications.
-        - name: Corrosion Science
-          icon: shield-check
-          description: Protecting infrastructure through innovative surface treatments.
-
-  # 4. CTA
-  - block: cta-card
-    content:
-      title: "Join our Research"
-      text: "We are always looking for passionate researchers to join SEISAD. If you are interested in our work, please get in touch."
-      button:
-        text: Contact Us
-        url: "mailto:your-email@chimieparistech.psl.eu"
+      title: "SEISAD"
+      text: |
+        <span style="float: left; font-size: 70px; line-height: 60px; padding-top: 4px; padding-right: 8px; font-family: Georgia;">Actually, the Team develops projects aimed at elaborating processes and tools for the early detection of pathological signals using chemical and analytical methodologiesThe main prospections are related to: (i) new methodologies of synthesis and supported catalysis in mini – and continuous microflow reactors, synthesis of libraries of molecules as ligands of proteins, development of new radio-labelling methodologies for imaging; (ii) electrochemical sensors for biological systems and for screening biological markers, molecular materials for electroanalysis and electrocatalysis, microelectrochemical patterning of surfaces using scanning electrochemical microscopy, label-free electrochemical detection of microRNAs ; (iii) preparation of targeted optical and MR imaging agents, development of molecular magnetic resonance imaging MRI methods & functional imaging methods for the characterization and therapeutic follow-up of cancer in preclinics and (iv) characterization of new nano-supports and selective objects : peptide nanotubes, aptamers, nanobodies, design and characterization of original biocompatible nano-objects and quantitative characterization of their non-covalent interactions, development of miniaturized total analysis systems for applications ranging from environmental control to in-vitro medical diagnosis.
     design:
-      card:
-        # 这里可以选择卡片的背景色
-        css_class: "bg-primary-500"
----
+      spacing:
+        padding: ["2rem", 0, "2rem", 0]
+  
+  # 4. Research Themes
+  - block: features
+    content:
+      title: "Research Themes"
+      items:
+        - name: "Synthetic methodologies"
+          description: "Development of new synthetic and/or radio-labelling methodologies"
+          icon: flask
+        - name: "Sensors"
+          description: "Development of new electrochemical sensors"
+          icon: bolt
+        - name: "Imaging"
+          description: "Development of new optical and MR imaging agents"
+          icon: microscope
+    design:
+      columns: '1'
+    
+# 5. People
+      - block: people
+    content:
+      title: "Permanent Staff Members"
+      user_groups:
+        - "Permanent Staff"
+    design:
+      columns: '4'

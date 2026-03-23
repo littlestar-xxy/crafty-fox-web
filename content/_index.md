@@ -7,22 +7,24 @@ design:
   spacing: "6rem"
 
 sections:
-  # 0. logo
+  # 0. Logo Bar 
   - block: markdown
     content:
       title: ""
+      subtitle: ""
       text: |
-        <div style="display: flex; justify-content: space-around; align-items: center; padding: 10px 0;">
-          <img src="media/chimie.png" style="height: 50px;">
-          <img src="media/iclehs.png" style="height: 70px;">
-          <img src="media/cnrs.png" style="height: 50px;">
+        <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 1200px; margin: 0 auto; padding: 20px 0;">
+          <img src="media/chimie.png" style="height: 55px; width: auto;">
+          <img src="media/iclehs.png" style="height: 80px; width: auto;">
+          <img src="media/cnrs.png" style="height: 55px; width: auto;">
         </div>
-        <p style="text-align: center; color: #666; font-size: 0.9rem; margin-top: 10px;">
+        <div style="text-align: center; color: #555; font-style: italic; border-top: 1px solid #eee; padding-top: 15px; max-width: 1200px; margin: 0 auto;">
           — Institute of Chemistry for Life & Health Sciences —
-        </p>
+        </div>
     design:
+      columns: '1' 
       spacing:
-        padding: ["1rem", 0, "0.5rem", 0]
+        padding: ["1rem", 0, "1rem", 0]
   
   # 1. photo
   - block: markdown
@@ -36,6 +38,7 @@ sections:
     design:
       spacing:
         padding: ["1rem", 0, "2rem", 0]
+    
   # 3. Description
   - block: markdown
     content:

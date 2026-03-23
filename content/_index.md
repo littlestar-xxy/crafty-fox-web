@@ -26,18 +26,19 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
   
-  # 1. photo
+  # 1. Group Photo
   - block: markdown
     content:
       title: ""
       subtitle: ""
       text: |
-        <div style="width: 100%; margin: 0 auto;">
-          <img src="media/AA3A0511.JPG" style="width: 100%; height: auto; display: block; border-radius: 4px;">
+        <div style="width: 100%; max-width: 1200px; margin: 0 auto;">
+          <img src="media/AA3A0511.JPG" style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         </div>
     design:
+      columns: '1'
       spacing:
-        padding: ["1rem", 0, "2rem", 0]
+        padding: ["0", 0, "2rem", 0]
     
   # 3. Description
   - block: markdown

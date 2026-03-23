@@ -31,12 +31,12 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        <div style="text-align: center;">
-          <img src="media/AA3A0511.JPG" style="width: 100%; max-width: 1000px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <div style="width: 100%; margin: 0 auto;">
+          <img src="media/AA3A0511.JPG" style="width: 100%; height: auto; display: block; border-radius: 4px;">
         </div>
     design:
       spacing:
-        padding: ["2rem", 0, "2rem", 0]
+        padding: ["1rem", 0, "2rem", 0]
   # 3. Description
   - block: markdown
     content:

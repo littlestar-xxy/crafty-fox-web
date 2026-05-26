@@ -399,7 +399,7 @@ sections:
               <div class="person-info">
                 <div class="person-name">Xingyuan Xu</div>
                 <div class="person-title">PhD Student</div>
-                <div class="person-bio">Theranostics related AI and advanced sensing.</div>
+                <div class="person-bio">Leveraging natural language processing to recognize emotions in cancer patients and recommend personalized well-being advice.</div>
                 <div class="person-links">
                   <div><span>Email:</span> <a href="mailto:xingyuan.xu@chimieparistech.psl.eu">xingyuan.xu@chimieparistech.psl.eu</a></div>
                   <div><a href="https://www.linkedin.com/in/xingyuan-xu-a125293a9/" target="_blank">LinkedIn Profile</a></div>
@@ -412,7 +412,7 @@ sections:
               <div class="person-info">
                 <div class="person-name">Lucas Castro</div>
                 <div class="person-title">PhD Student</div>
-                <div class="person-bio">XXX.</div>
+                <div class="person-bio">Development of a multi-omics microfluidic platform integrating electrochemical cell lysis, proteolysis, and biomolecular separation for downstream analysis.</div>
                 <div class="person-links">
                   <div><span>Email:</span> <a href="mailto:lucas.castro@chimieparistech.psl.eu">lucas.castro@chimieparistech.psl.eu</a></div>
                 </div>

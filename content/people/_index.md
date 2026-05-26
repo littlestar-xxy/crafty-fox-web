@@ -425,7 +425,7 @@ sections:
               <div class="person-info">
                 <div class="person-name">Jieling Zhang</div>
                 <div class="person-title">PhD Student</div>
-                <div class="person-bio">Electrochemical biosensors for environmentally relevant species.</div>
+                <div class="person-bio">Electrochemical Biosensor Based on Hydrogel-Modified Screen-Printed Carbon Electrode for Diclofenac Detection.</div>
                 <div class="person-links">
                   <div><span>Email:</span> <a href="mailto:jieling.zhang@chimieparistech.psl.eu">jieling.zhang@chimieparistech.psl.eu</a></div>
                   <div><a href="/SEISAD_website/media/people/Jieling.pdf" target="_blank">CV (PDF)</a></div>

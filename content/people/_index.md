@@ -395,7 +395,7 @@ sections:
             </div>
              <!-- Xingyuan Xu -->
             <div class="person-card">
-              <img src="/SEISAD_website/media/people/xingyuan.jpg" class="person-img" alt="Xingyuan XU">
+              <img src="/SEISAD_website/media/people/xingyuan2.jpg" class="person-img" alt="Xingyuan XU">
               <div class="person-info">
                 <div class="person-name">Xingyuan Xu</div>
                 <div class="person-title">PhD Student</div>

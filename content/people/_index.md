@@ -421,7 +421,7 @@ sections:
             </div>
              <!-- Jieling Zhang -->
             <div class="person-card">
-              <img src="/SEISAD_website/media/people/Jieling.jpg" class="person-img" alt="Lucas Castro">
+              <img src="/SEISAD_website/media/people/Jieling2.jpg" class="person-img" alt="Lucas Castro">
               <div class="person-info">
                 <div class="person-name">Jieling Zhang</div>
                 <div class="person-title">PhD Student</div>

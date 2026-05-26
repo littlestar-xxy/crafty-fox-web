@@ -427,7 +427,7 @@ sections:
                 <div class="person-title">PhD Student</div>
                 <div class="person-bio">Electrochemical biosensors for environmentally relevant species.</div>
                 <div class="person-links">
-                  <div><span>Email:</span> <a href="mailto:jieling.zhang@chimieparistech.psl.eu">lucas.castro@chimieparistech.psl.eu</a></div>
+                  <div><span>Email:</span> <a href="mailto:jieling.zhang@chimieparistech.psl.eu">jieling.zhang@chimieparistech.psl.eu</a></div>
                   <div><a href="/SEISAD_website/media/people/Jieling.pdf" target="_blank">CV (PDF)</a></div>
                 </div>
               </div>
@@ -440,8 +440,21 @@ sections:
                 <div class="person-title">PhD Student</div>
                 <div class="person-bio">Capillary electrophoresis optimizations for nanoplastics characterization and interaction studies with eco-corona.</div>
                 <div class="person-links">
-                  <div><span>Email:</span> <a href="mailto:sisi.zhu@etu.chimieparistech.psl.eu">XXX@chimieparistech.psl.eu</a></div>
+                  <div><span>Email:</span> <a href="mailto:sisi.zhu@etu.chimieparistech.psl.eu">sisi.zhu@etu.chimieparistech.psl.eu</a></div>
                   <div><a href="/SEISAD_website/media/people/Sisi.pdf" target="_blank">CV (PDF)</a></div>
+                </div>
+              </div>
+            </div>
+              <!-- Lirui Liu -->
+            <div class="person-card">
+              <img src="/SEISAD_website/media/people/Lirui.png" class="person-img" alt="Lucas Castro">
+              <div class="person-info">
+                <div class="person-name">Lirui Liu</div>
+                <div class="person-title">PhD Student</div>
+                <div class="person-bio">Peptide-modified Wearable Flexible Electrochemical Biosensors for Multiplexed Sweat Biomarkers Monitoring With Electrolyte-Gated and Electrochemical Transistors.</div>
+                <div class="person-links">
+                  <div><span>Email:</span> <a href="mailto:lirui.liu@etu.chimieparistech.psl.eu">lirui.liu@etu.chimieparistech.psl.eu</a></div>
+                  <div><a href="https://www.linkedin.com/in/lirui-liu-9834b9286/?locale=en_US" target="_blank">LinkedIn Profile</a></div>
                 </div>
               </div>
             </div>

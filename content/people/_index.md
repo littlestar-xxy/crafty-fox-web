@@ -408,13 +408,14 @@ sections:
             </div>
              <!-- Lucas Castro -->
             <div class="person-card">
-              <img src="/SEISAD_website/media/people/XXX.png" class="person-img" alt="Lucas Castro">
+              <img src="/SEISAD_website/media/people/Lucas.png" class="person-img" alt="Lucas Castro">
               <div class="person-info">
                 <div class="person-name">Lucas Castro</div>
                 <div class="person-title">PhD Student</div>
                 <div class="person-bio">Development of a multi-omics microfluidic platform integrating electrochemical cell lysis, proteolysis, and biomolecular separation for downstream analysis.</div>
                 <div class="person-links">
                   <div><span>Email:</span> <a href="mailto:lucas.castro@chimieparistech.psl.eu">lucas.castro@chimieparistech.psl.eu</a></div>
+                  <div><a href="/SEISAD_website/media/people/Lucas Castro CV.pdf" target="_blank">CV (PDF)</a></div>
                 </div>
               </div>
             </div>

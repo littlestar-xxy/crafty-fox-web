@@ -423,7 +423,7 @@ sections:
             <div class="person-card">
               <img src="/SEISAD_website/media/people/Jieling.jpg" class="person-img" alt="Lucas Castro">
               <div class="person-info">
-                <div class="person-name">Lucas Castro</div>
+                <div class="person-name">Jieling Zhang</div>
                 <div class="person-title">PhD Student</div>
                 <div class="person-bio">Electrochemical biosensors for environmentally relevant species.</div>
                 <div class="person-links">
@@ -432,15 +432,16 @@ sections:
                 </div>
               </div>
             </div>
-             <!-- Lucas Castro -->
+             <!-- Sisi Zhu -->
             <div class="person-card">
-              <img src="/SEISAD_website/media/people/XXX.png" class="person-img" alt="XXX">
+              <img src="/SEISAD_website/media/people/Sisi.jpg" class="person-img" alt="XXX">
               <div class="person-info">
-                <div class="person-name">XXX</div>
+                <div class="person-name">SiSi Zhu</div>
                 <div class="person-title">PhD Student</div>
-                <div class="person-bio">XXX.</div>
+                <div class="person-bio">Capillary electrophoresis optimizations for nanoplastics characterization and interaction studies with eco-corona.</div>
                 <div class="person-links">
-                  <div><span>Email:</span> <a href="mailto:XXX@chimieparistech.psl.eu">XXX@chimieparistech.psl.eu</a></div>
+                  <div><span>Email:</span> <a href="mailto:sisi.zhu@etu.chimieparistech.psl.eu">XXX@chimieparistech.psl.eu</a></div>
+                  <div><a href="/SEISAD_website/media/people/Sisi.pdf" target="_blank">CV (PDF)</a></div>
                 </div>
               </div>
             </div>

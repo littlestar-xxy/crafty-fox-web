@@ -393,7 +393,7 @@ sections:
                 </div>
               </div>
             </div>
-             <!-- Xingyuan XU -->
+             <!-- Xingyuan Xu -->
             <div class="person-card">
               <img src="/SEISAD_website/media/people/XingyuanXu.png" class="person-img" alt="Xingyuan XU">
               <div class="person-info">
@@ -408,7 +408,7 @@ sections:
             </div>
              <!-- Lucas Castro -->
             <div class="person-card">
-              <img src="/SEISAD_website/media/people/Lucas.png" class="person-img" alt="Lucas Castro">
+              <img src="/SEISAD_website/media/people/Lucas.jpg" class="person-img" alt="Lucas Castro">
               <div class="person-info">
                 <div class="person-name">Lucas Castro</div>
                 <div class="person-title">PhD Student</div>
@@ -416,6 +416,19 @@ sections:
                 <div class="person-links">
                   <div><span>Email:</span> <a href="mailto:lucas.castro@chimieparistech.psl.eu">lucas.castro@chimieparistech.psl.eu</a></div>
                   <div><a href="/SEISAD_website/media/people/Lucas Castro CV.pdf" target="_blank">CV (PDF)</a></div>
+                </div>
+              </div>
+            </div>
+             <!-- Jieling Zhang -->
+            <div class="person-card">
+              <img src="/SEISAD_website/media/people/Jieling.jpg" class="person-img" alt="Lucas Castro">
+              <div class="person-info">
+                <div class="person-name">Lucas Castro</div>
+                <div class="person-title">PhD Student</div>
+                <div class="person-bio">Electrochemical biosensors for environmentally relevant species.</div>
+                <div class="person-links">
+                  <div><span>Email:</span> <a href="mailto:jieling.zhang@chimieparistech.psl.eu">lucas.castro@chimieparistech.psl.eu</a></div>
+                  <div><a href="/SEISAD_website/media/people/Jieling.pdf" target="_blank">CV (PDF)</a></div>
                 </div>
               </div>
             </div>

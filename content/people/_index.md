@@ -458,6 +458,19 @@ sections:
                 </div>
               </div>
             </div>
+             <!-- Ara Sabei -->
+            <div class="person-card">
+              <img src="/SEISAD_website/media/people/Ara.JPG" class="person-img" alt="XXX">
+              <div class="person-info">
+                <div class="person-name">Ara Sabei</div>
+                <div class="person-title">PhD Student</div>
+                <div class="person-bio">Miniaturized devices based on self-assembling peptides for the expiratory breath sampling and identification of volatile biomarkers for diagnosis.</div>
+                <div class="person-links">
+                  <div><span>Email:</span> <a href="mailto:ara.sabei@chimieparistech.psl.eu">ara.sabei@chimieparistech.psl.eu</a></div>
+                  <div><a href="/SEISAD_website/media/people/Ara.pdf" target="_blank">CV (PDF)</a></div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
     design:
